@@ -1,6 +1,6 @@
-<svg width='500.00' height='500.00' xmlns='http://www.w3.org/2000/svg'>
-<circle cx='190' cy='210' r='100' fill='rgb(0, 0, 0, 0.2)' />
-<circle cx='190' cy='120' r='50' fill='rgb(0, 0, 0, 0.2)' />
+<svg width='300.00' height='300.00' xmlns='http://www.w3.org/2000/svg'>
+<circle cx='190' cy='210' r='100' fill='rgb(0, 0, 0, 0.1)' />
+<circle cx='190' cy='120' r='50' fill='rgb(0, 0, 0, 0.1)' />
 <circle cx='180' cy='110' r='50' fill='rgb(0, 0, 0, 1)' />
 <circle cx='160' cy='82' r='15' fill='rgb(240, 248, 255, 1)' />
 <circle cx='200' cy='82' r='15' fill='rgb(240, 248, 255, 1)' />
